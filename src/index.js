@@ -15,7 +15,7 @@ const initialState = {
   products: [
     {
       id: 'bio-banana',
-      description: 'Bio Banana'
+      description: 'Bio Bananen'
     },
     {
       id: 'strawberry-banana-smoothie',
@@ -31,7 +31,7 @@ const initialState = {
     },
     {
       id: 'tergernsee-beer',
-      description: 'Tegernsee Beer'
+      description: 'Tegernsee Bier'
     }
   ],
   basket: []
