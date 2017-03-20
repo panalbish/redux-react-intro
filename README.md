@@ -1,4 +1,4 @@
-e-commerce checkout for React-Redux showcase.
+e-commerce add-to-basket feature for React-Redux showcase.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
