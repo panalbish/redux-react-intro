@@ -11,7 +11,6 @@ const DEFAULT_STATE = {
 };
 
 const rootReducer = (state = DEFAULT_STATE, action) => {
-  console.log(state, action);
   const { type, payload } = action;
   switch (type) {
     case ADD_ITEM:
