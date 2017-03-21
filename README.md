@@ -1,6 +1,9 @@
 e-commerce add-to-basket feature for React-Redux showcase.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+## Slide is under
+`public/slide`
+
 ## Available Scripts
 
 In the project directory, you can run:
