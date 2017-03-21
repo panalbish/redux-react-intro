@@ -1,9 +1,10 @@
 
 
 .rsProductLists {
-  width: 836px;
+  width: 100%;
   margin: 30px auto;
   overflow: hidden;
+  padding: 0 50px;
 }
 
 .rsProduct {
@@ -27,7 +28,7 @@
 }
 
 .addToCartButton {
-    display: flex;
+    display: inline-block;;
     overflow: hidden;
 
     margin: 10px;
