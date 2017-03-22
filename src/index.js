@@ -39,6 +39,8 @@ const initialState = {
 const store = createStore(
   rootReducer,
   initialState,
+  // enhancer
+  // https://github.com/reactjs/redux/blob/master/docs/api/createStore.md
   // eslint-disable-next-line
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 );
